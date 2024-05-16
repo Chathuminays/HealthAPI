@@ -14,11 +14,11 @@ The API encompasses the following key entities:
 6. **Prescription**: Records information about prescribed medications, including dosage, instructions, and duration.
 7. **Billing**: Manages financial transactions related to healthcare services, including invoices, payments, and outstanding balances.
 
-## Key Objectives
+## Project Structure
 
-The project aims to achieve the following objectives:
+The project is organized into the following components:
 
-1. **Model Classes**: Implement well-defined model classes with proper inheritance, constructors, and attributes for each entity.
-2. **DAO Implementation**: Create Data Access Object (DAO) classes with CRUD methods for each entity, along with comprehensive exception handling and validation.
-3. **Logging and Exception Handling**: Implement detailed logging and exception handling mechanisms to ensure robustness and auditability.
-4. **RESTful Resource Implementation**: Develop resource classes following RESTful principles, with intuitive URIs, appropriate HTTP methods, and accurate implementations of CRUD operations.
+1. **Model Classes**: Contains well-defined model classes with proper inheritance, constructors, and attributes for each entity.
+2. **DAO Implementation**: Created Data Access Object (DAO) classes with CRUD methods for each entity, along with comprehensive exception handling and validation.
+3. **Logging and Exception Handling**: Implemented detailed logging and exception handling mechanisms to ensure robustness and auditability.
+4. **RESTful Resource Implementation**: Developed resource classes following RESTful principles, with intuitive URIs, appropriate HTTP methods, and accurate implementations of CRUD operations.
